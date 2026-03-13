@@ -1,0 +1,15 @@
+{
+    "dtype": [
+        "np.float64"
+    ],
+    "pooling_func": [
+        "numpy.mean",
+        "numpy.amax",
+        "numpy.median"
+    ],
+    "score_func": [
+        "sklearn.feature_selection.univariate_selection.f_classif",
+        "sklearn.feature_selection._univariate_selection.f_classif",
+        "sklearn.feature_selection._mutual_info.mutual_info_classif"
+    ]
+}

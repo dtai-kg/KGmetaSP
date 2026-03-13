@@ -1,0 +1,37 @@
+{
+    "SimpleImputer": [
+        "axis",
+        "verbose"
+    ],
+    "OneHotEncoder": [
+        "categorical_features",
+        "n_values",
+        "sparse"
+    ],
+    "BaggingClassifier": [
+        "base_estimator"
+    ],
+    "MLPClassifier": [
+        "algorithm"
+    ],
+    "AdaBoostClassifier": [
+        "base_estimator"
+    ],
+    "FeatureAgglomeration": [
+        "affinity"
+    ],
+    "SGDClassifier": [
+        "n_iter"
+    ],
+    "SVC": [
+        "options",
+        "params"
+    ],
+    "LinearRegression": [
+        "normalize"
+    ],
+    "SVR": [
+        "options",
+        "params"
+    ]
+}

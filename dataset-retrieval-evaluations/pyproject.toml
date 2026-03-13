@@ -1,0 +1,20 @@
+[project]
+name = "dataset-similarity-evaluations"
+version = "0.0.0"
+description = "Code for generating performance simulation benchmark and evaluating performance similarity of embeddings and baselines"
+authors = []
+readme = "README.md"
+requires-python = "3.11.9"
+dependencies = [
+    "pandas (==2.2.2)",
+    "openml (==0.15.0)",
+    "scikit-learn (==1.5.1)",
+    "numpy (==1.26.0)",
+    "scipy (==1.15.1)",
+    "sentence_transformers (==3.4.1)",
+    "torch (==2.2.0)"
+]
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"

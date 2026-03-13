@@ -1,0 +1,189 @@
+{
+    "min_simulations_considered": 100,
+    "target_metric_accuracy": {
+        "metafeatures_all": {
+            "RF_metamodel": {
+                "accuracy": 0.7684999508428058,
+                "weighted_f1": 0.7676724250334519
+            },
+            "RFReg_metamodel": {
+                "mse": 0.0060579340544467675,
+                "r2": 0.7322782718967954
+            }
+        },
+        "metafeatures_simple": {
+            "RF_metamodel": {
+                "accuracy": 0.48860644749648174,
+                "weighted_f1": 0.484724443381079
+            },
+            "RFReg_metamodel": {
+                "mse": 0.019267236646449897,
+                "r2": 0.10639808657633573
+            }
+        },
+        "metafeatures_statistical": {
+            "RF_metamodel": {
+                "accuracy": 0.5748875351716342,
+                "weighted_f1": 0.5718490809482908
+            },
+            "RFReg_metamodel": {
+                "mse": 0.0200624039813077,
+                "r2": 0.09856640516519562
+            }
+        },
+        "metafeatures_information_theory": {
+            "RF_metamodel": {
+                "accuracy": 0.43622994046972213,
+                "weighted_f1": 0.43530980014636933
+            },
+            "RFReg_metamodel": {
+                "mse": 0.02197953816058345,
+                "r2": -0.02549038930537093
+            }
+        },
+        "metafeatures_landmarkers": {
+            "RF_metamodel": {
+                "accuracy": 0.7603486557254063,
+                "weighted_f1": 0.7585927918053508
+            },
+            "RFReg_metamodel": {
+                "mse": 0.006032828902458841,
+                "r2": 0.735357868562338
+            }
+        },
+        "metafeatures_mlsea": {
+            "RF_metamodel": {
+                "accuracy": 0.42710441242108294,
+                "weighted_f1": 0.4241857766194377
+            },
+            "RFReg_metamodel": {
+                "mse": 0.01922832624438508,
+                "r2": 0.14184409610760962
+            }
+        }
+    },
+    "target_metric_precision": {
+        "metafeatures_all": {
+            "RF_metamodel": {
+                "accuracy": 0.7581658846582696,
+                "weighted_f1": 0.7618188400399122
+            },
+            "RFReg_metamodel": {
+                "mse": 0.007015953088882032,
+                "r2": 0.7262168001730023
+            }
+        },
+        "metafeatures_simple": {
+            "RF_metamodel": {
+                "accuracy": 0.4883385607404626,
+                "weighted_f1": 0.48679950385322696
+            },
+            "RFReg_metamodel": {
+                "mse": 0.021475792240140658,
+                "r2": 0.09534005198468586
+            }
+        },
+        "metafeatures_statistical": {
+            "RF_metamodel": {
+                "accuracy": 0.5565232929944686,
+                "weighted_f1": 0.5543332806870723
+            },
+            "RFReg_metamodel": {
+                "mse": 0.021591415442374293,
+                "r2": 0.13601697135869736
+            }
+        },
+        "metafeatures_information_theory": {
+            "RF_metamodel": {
+                "accuracy": 0.43286153967978114,
+                "weighted_f1": 0.4379811975441743
+            },
+            "RFReg_metamodel": {
+                "mse": 0.024612684023283104,
+                "r2": -0.036193805405979926
+            }
+        },
+        "metafeatures_landmarkers": {
+            "RF_metamodel": {
+                "accuracy": 0.7492486984644877,
+                "weighted_f1": 0.7519189441737925
+            },
+            "RFReg_metamodel": {
+                "mse": 0.006956608553190004,
+                "r2": 0.7329970101999302
+            }
+        },
+        "metafeatures_mlsea": {
+            "RF_metamodel": {
+                "accuracy": 0.4319505183091932,
+                "weighted_f1": 0.4315071091008744
+            },
+            "RFReg_metamodel": {
+                "mse": 0.021506649183038587,
+                "r2": 0.14415467887139616
+            }
+        }
+    },
+    "target_metric_f1_score": {
+        "metafeatures_all": {
+            "RF_metamodel": {
+                "accuracy": 0.7628029088296764,
+                "weighted_f1": 0.7616059648767404
+            },
+            "RFReg_metamodel": {
+                "mse": 0.006592559370650899,
+                "r2": 0.7426179223241609
+            }
+        },
+        "metafeatures_simple": {
+            "RF_metamodel": {
+                "accuracy": 0.4838404187222518,
+                "weighted_f1": 0.47979796668067903
+            },
+            "RFReg_metamodel": {
+                "mse": 0.02121419481153283,
+                "r2": 0.125576045723199
+            }
+        },
+        "metafeatures_statistical": {
+            "RF_metamodel": {
+                "accuracy": 0.5579363188860228,
+                "weighted_f1": 0.5549142707931889
+            },
+            "RFReg_metamodel": {
+                "mse": 0.022136229485204714,
+                "r2": 0.12361926593087232
+            }
+        },
+        "metafeatures_information_theory": {
+            "RF_metamodel": {
+                "accuracy": 0.4402260038457839,
+                "weighted_f1": 0.44082948434420055
+            },
+            "RFReg_metamodel": {
+                "mse": 0.024561969392796323,
+                "r2": -0.019116942806696294
+            }
+        },
+        "metafeatures_landmarkers": {
+            "RF_metamodel": {
+                "accuracy": 0.7587908970386539,
+                "weighted_f1": 0.7566969803878792
+            },
+            "RFReg_metamodel": {
+                "mse": 0.0066328995027406246,
+                "r2": 0.7447765770953692
+            }
+        },
+        "metafeatures_mlsea": {
+            "RF_metamodel": {
+                "accuracy": 0.4295030704069519,
+                "weighted_f1": 0.4268468576449189
+            },
+            "RFReg_metamodel": {
+                "mse": 0.02158131545227931,
+                "r2": 0.15010146225282747
+            }
+        }
+    }
+}

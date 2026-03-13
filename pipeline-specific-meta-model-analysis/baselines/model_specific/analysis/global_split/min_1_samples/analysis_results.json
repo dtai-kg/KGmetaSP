@@ -1,0 +1,189 @@
+{
+    "min_simulations_considered": 1,
+    "target_metric_accuracy": {
+        "metafeatures_all": {
+            "RF_metamodel": {
+                "accuracy": 0.7224175968350576,
+                "weighted_f1": 0.7222972648623308
+            },
+            "RFReg_metamodel": {
+                "mse": 0.010534333455537299,
+                "r2": -1.2422917228857548
+            }
+        },
+        "metafeatures_simple": {
+            "RF_metamodel": {
+                "accuracy": 0.47633164125911526,
+                "weighted_f1": 0.4728331260114002
+            },
+            "RFReg_metamodel": {
+                "mse": 0.022445567324153964,
+                "r2": -3.751942076775249
+            }
+        },
+        "metafeatures_statistical": {
+            "RF_metamodel": {
+                "accuracy": 0.5258959523747818,
+                "weighted_f1": 0.5242508925706572
+            },
+            "RFReg_metamodel": {
+                "mse": 0.02292286195596947,
+                "r2": -2.2974322593806917
+            }
+        },
+        "metafeatures_information_theory": {
+            "RF_metamodel": {
+                "accuracy": 0.43698460455968763,
+                "weighted_f1": 0.4355453509695818
+            },
+            "RFReg_metamodel": {
+                "mse": 0.02515906038021956,
+                "r2": -2.235667846798347
+            }
+        },
+        "metafeatures_landmarkers": {
+            "RF_metamodel": {
+                "accuracy": 0.7053511192951705,
+                "weighted_f1": 0.7047904117303426
+            },
+            "RFReg_metamodel": {
+                "mse": 0.011047833804144756,
+                "r2": -0.29481746696798916
+            }
+        },
+        "metafeatures_mlsea": {
+            "RF_metamodel": {
+                "accuracy": 0.4308189227070984,
+                "weighted_f1": 0.4287934085094166
+            },
+            "RFReg_metamodel": {
+                "mse": 0.0219524795154292,
+                "r2": -3.6121422651731683
+            }
+        }
+    },
+    "target_metric_precision": {
+        "metafeatures_all": {
+            "RF_metamodel": {
+                "accuracy": 0.7199707433407369,
+                "weighted_f1": 0.7240476208564476
+            },
+            "RFReg_metamodel": {
+                "mse": 0.015595349724360509,
+                "r2": -1.7241394838467548
+            }
+        },
+        "metafeatures_simple": {
+            "RF_metamodel": {
+                "accuracy": 0.4733108709426071,
+                "weighted_f1": 0.4723493737330739
+            },
+            "RFReg_metamodel": {
+                "mse": 0.02755075432382068,
+                "r2": -6.053444544606142
+            }
+        },
+        "metafeatures_statistical": {
+            "RF_metamodel": {
+                "accuracy": 0.5244420389660749,
+                "weighted_f1": 0.5235868325160031
+            },
+            "RFReg_metamodel": {
+                "mse": 0.02833224868769399,
+                "r2": -2.8026835866520554
+            }
+        },
+        "metafeatures_information_theory": {
+            "RF_metamodel": {
+                "accuracy": 0.4274362596308561,
+                "weighted_f1": 0.4281606418896656
+            },
+            "RFReg_metamodel": {
+                "mse": 0.03272712477024776,
+                "r2": -5.644501222533745
+            }
+        },
+        "metafeatures_landmarkers": {
+            "RF_metamodel": {
+                "accuracy": 0.6940536921167064,
+                "weighted_f1": 0.695527049237831
+            },
+            "RFReg_metamodel": {
+                "mse": 0.016461680247850448,
+                "r2": -0.3334286308917542
+            }
+        },
+        "metafeatures_mlsea": {
+            "RF_metamodel": {
+                "accuracy": 0.4360258481986052,
+                "weighted_f1": 0.437187200534327
+            },
+            "RFReg_metamodel": {
+                "mse": 0.027252679145134177,
+                "r2": -5.532540821352735
+            }
+        }
+    },
+    "target_metric_f1_score": {
+        "metafeatures_all": {
+            "RF_metamodel": {
+                "accuracy": 0.7214398346881638,
+                "weighted_f1": 0.7224606541289892
+            },
+            "RFReg_metamodel": {
+                "mse": 0.013714179651055751,
+                "r2": -1.3093846723564955
+            }
+        },
+        "metafeatures_simple": {
+            "RF_metamodel": {
+                "accuracy": 0.4835726605523933,
+                "weighted_f1": 0.48099328836013466
+            },
+            "RFReg_metamodel": {
+                "mse": 0.02639000943511235,
+                "r2": -4.233523319722055
+            }
+        },
+        "metafeatures_statistical": {
+            "RF_metamodel": {
+                "accuracy": 0.5323794591004963,
+                "weighted_f1": 0.5315307418276142
+            },
+            "RFReg_metamodel": {
+                "mse": 0.027245929148858625,
+                "r2": -2.3590696294650653
+            }
+        },
+        "metafeatures_information_theory": {
+            "RF_metamodel": {
+                "accuracy": 0.43484982382492143,
+                "weighted_f1": 0.4344332614766233
+            },
+            "RFReg_metamodel": {
+                "mse": 0.030416374519343748,
+                "r2": -4.5583149018233
+            }
+        },
+        "metafeatures_landmarkers": {
+            "RF_metamodel": {
+                "accuracy": 0.7009877921238322,
+                "weighted_f1": 0.6992925061309587
+            },
+            "RFReg_metamodel": {
+                "mse": 0.014798638294598493,
+                "r2": -0.4226047723776776
+            }
+        },
+        "metafeatures_mlsea": {
+            "RF_metamodel": {
+                "accuracy": 0.4436313354366522,
+                "weighted_f1": 0.4425314463243225
+            },
+            "RFReg_metamodel": {
+                "mse": 0.026403871437191848,
+                "r2": -4.2850182056940165
+            }
+        }
+    }
+}
