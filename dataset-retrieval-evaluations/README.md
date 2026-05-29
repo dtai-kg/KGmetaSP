@@ -26,7 +26,7 @@ Install dependencies using Poetry:
 poetry install
 ```
 
-## Performance Similarity Benchmark
+## MetaExe-Bench: Performance Similarity Benchmark
 
 The existing performance similarity benchmark can be found at:
 ```bash

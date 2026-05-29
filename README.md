@@ -8,6 +8,14 @@ This repository is a comprehensive project for exploring machine learning datase
 3. [Pipeline-specific meta-model analysis](#3-pipeline-specific-meta-model-analysis)
 4. [Indicative Results: Link Prediction Models](#4-indicative-results-link-prediction-models-for-pipeline-performance-prediction)
 
+## MetaExe-Bench 
+
+The experiments of this repository use the generated MetaExe-Bench, which includes cross-dataset evaluations with 
+OpenML scikit-learn pipelines. 
+
+For more details, we refer to the [README.md](dataset-retrieval-evaluations/README.md) 
+in the corresponding folder regarding setup and usage.
+
 ## 1. Knowledge Graph Embedding-Based Dataset Similarity
 Located in the [`kge-based-dataset-similarity`](kge-based-dataset-similarity/) folder, this component focuses on:
 
